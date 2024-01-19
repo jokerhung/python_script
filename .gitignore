@@ -1,0 +1,9 @@
+build.log
+version.txt
+*.zip
+.env
+Debug/
+.vs/
+build/
+venv/
+.idea/

@@ -20,6 +20,7 @@ def getURL():
 
 def autoBrowse(play_duration):
     # Set up the webdriver
+    # test git
     driver = webdriver.Firefox()
     driver.maximize_window()
     time.sleep(5)
